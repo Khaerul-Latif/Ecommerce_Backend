@@ -1,0 +1,3 @@
+*.sqlite*
+api-docs.json
+composer.lock
